@@ -1,7 +1,7 @@
 const pkg = require("./lerna.json");
 
 module.exports = {
-    root: "./docs",
+    root: "./",
     title: "HonKit Documentation",
 
     // Enforce use of HonKit v3
