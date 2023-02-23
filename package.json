@@ -49,6 +49,7 @@
     "@types/cheerio": "^0.22.18",
     "@types/jest": "^26.0.0",
     "eslint": "^8.23.1",
+    "honkit-plugin-i18nsettings": "^1.0.0",
     "husky": "^8.0.1",
     "lerna": "^5.5.1",
     "lint-staged": "^13.0.3",
